@@ -14,3 +14,11 @@ Example GDS as seen in KLayout:
 
 Example PCB as seen in KiCad:
 ![Example PCB seen in KiCad](example_pcb_kicad.png)
+
+
+## Sponsorship - [PCBWay](https://www.pcbway.com/)
+
+This project was sponsored by PCBWay.
+Overall I've been very satisfied with the quality of the PCBs made by PCBWay.
+The quality of their boards is very high, and their pricing is accessible for prototyping in small batches.
+I am very pleased to get this project sponsored by PCBWay and can recommend their service, especially for the high quality you get and the huge amount of configurable settings.
