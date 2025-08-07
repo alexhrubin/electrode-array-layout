@@ -22,3 +22,5 @@ This project was sponsored by PCBWay.
 Overall I've been very satisfied with the quality of the PCBs made by PCBWay.
 The quality of their boards is very high, and their pricing is accessible for prototyping in small batches.
 I am very pleased to get this project sponsored by PCBWay and can recommend their service, especially for the high quality you get and the huge amount of configurable settings.
+
+![PCBs made by PCBWay](pcbs.jpeg)
